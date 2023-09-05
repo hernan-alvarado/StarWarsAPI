@@ -8,7 +8,7 @@ function createCardElement(data, containerId) {
 		let div = document.createElement("div");
 
 		let card = document.createElement("p");
-		card.className = "col col-md-6 col-lg-4";
+		card.className = "col col-lg-4 col-md-6";
 		
 
 		let cardBody = document.createElement("div");
@@ -17,15 +17,15 @@ function createCardElement(data, containerId) {
 
 
 		let circleDiv = document.createElement("p");
-		circleDiv.style.height = "35px";
-		circleDiv.style.width = "35px";
+		circleDiv.style.height = "20px";
+		circleDiv.style.width = "20px";
 	
 		let image = document.createElement("img");
 		image.src =
 			"https://i.pinimg.com/1200x/a2/a2/27/a2a227afa5d96e329085b989357b1129.jpg";
 		image.alt = "Logo Star Wars iluminado";
-		image.style.height = "50px"; 
-		image.style.width = "50px"; 
+		image.style.height = "30px"; 
+		image.style.width = "30px"; 
 
 		let textDiv = document.createElement("div");
 		textDiv.className = "time-line mx-4";

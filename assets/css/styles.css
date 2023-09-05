@@ -17,7 +17,7 @@
 }
 
 body {
-	background: url(/assets/img/1050192.jpg);
+	background: url(../img/1050192.jpg);
 	background-size:auto;
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -39,22 +39,22 @@ h1 {
 }
 
 .circuloRojo {
-	width: 40px;
-	height: 40px;
+	width: 20px;
+	height: 20px;
 	background-color: rgb(224, 103, 66);
 	border-radius: 50%;
 }
 
 .circuloVerde {
-	width: 40px;
-	height: 40px;
+	width: 20px;
+	height: 20px;
 	background-color: rgb(38, 209, 129);
 	border-radius: 50%;
 }
 
 .circuloCeleste {
-	width: 40px;
-	height: 40px;
+	width: 20px;
+	height: 20px;
 	background-color: rgb(13, 155, 238);
 	border-radius: 50%;
 }
