@@ -1,5 +1,5 @@
 # Práctica Módulo 04
-Sitio del proyecto: https://hernan-alvarado.github.io/Practica-de-Consolidacion-M04-StarWarsAPI/
+Sitio web del proyecto: https://hernan-alvarado.github.io/Practica-de-Consolidacion-M04-StarWarsAPI/
 
 - Consumo de API de Star Wars (https://swapi.dev/).
 - Se utiliza método Fetch.
