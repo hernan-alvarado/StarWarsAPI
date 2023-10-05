@@ -1,5 +1,5 @@
 # Práctica Módulo 04
-Consumo de API de Star Wars (https://swapi.dev/)
+API de Star Wars (https://swapi.dev/)
 - Se utiliza método Fetch.
 - Se muestran dimensiones de personajes de la saga (nombre, estatura y peso).
 
