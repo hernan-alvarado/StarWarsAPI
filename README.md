@@ -1,7 +1,5 @@
 # Práctica Módulo 04
-Sitio web del proyecto: https://hernan-alvarado.github.io/Practica-de-Consolidacion-M04-StarWarsAPI/
-
-- Consumo de API de Star Wars (https://swapi.dev/).
+Consumo de API de Star Wars (https://swapi.dev/)
 - Se utiliza método Fetch.
 - Se muestran dimensiones de personajes de la saga (nombre, estatura y peso).
 
